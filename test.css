@@ -1,0 +1,188 @@
+.footerwidgets {
+    background: linear-gradient(260deg, rgba(250,174,179,1) 6%, rgba(249,137,98,1) 37%, rgba(166,228,215,1) 69%, rgba(9,166,181,1) 98%);
+    color: #fff;
+    clear: both;
+    padding-top: 2%;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 2%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.wrap {
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px;
+    max-width: 1240px;
+}
+.widgetarea {
+    width: 33%
+        padding: 2%;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+}
+#custom12 {
+}
+
+#socialtwo {
+    margin: 0px auto;
+    position: relative;
+    width: 150px;
+    height: 30px;
+}
+#socialtwo ul {
+    padding: 0px;
+}
+#socialtwo li {
+    height: 30px;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    list-style: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    position: absolute;
+    top: 0;
+}
+#socialtwo li, #socialtwo a {
+    height: 30px;
+    display: block;
+}
+
+#instagramtwo {
+    background-image: url(../images/instagram.png);
+    background-repeat: no-repeat;
+    height: 30px;
+    display: block;
+    width: 30px;
+    left: 0px;
+    background-size: 30px 30px;
+}
+
+
+#hero .parallax_description {
+}
+
+#pinteresttwo {
+    background-image: url(../images/pinterest.png);
+    background-repeat: no-repeat;
+    height: 30px;
+    display: block;
+    width: 30px;
+    background-size: 30px 30px;
+    left: 40px;
+}
+
+
+#facebooktwo {
+    background-image: url(../images/facebook.png);
+    background-repeat: no-repeat;
+    height: 30px;
+    display: block;
+    width: 30px;
+    background-size: 30px 30px;
+    left: 80px;
+}
+
+
+#contacttwo {
+    background-image: url(../images/contact.png);
+    background-repeat: no-repeat;
+    height: 30px;
+    display: block;
+    width: 30px;
+    background-size: 30px 30px;
+    left: 120px;
+}
+
+
+.align {
+    display: block;
+    margin: 0 auto 5px;
+}
+.socialmedialinks {
+    width: 359.59px;
+    background-color: #000000;
+    padding-top: 4%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    float: left;
+    height: 104.39px;
+}
+
+
+
+
+
+#socialmediaicons {
+    width: 359.59px;
+    height: 30px;
+    background-color: #194A17;
+}
+#socialtwo center a {
+    width: 150px;
+    height: 30px;
+}
+
+center {
+    display: block;
+    text-align: center;
+}
+.footerwidgets a {
+    color: #fff;
+}
+
+.footerwidgets li {
+    list-style-type: none;
+    margin-bottom: 6px;
+    word-wrap: break-word;
+}
+.widgetarea1, .widgetarea3 {
+    width: 33%;
+    padding: 2%;
+}
+.widgetarea2, .widgetarea3 {
+    width: 33%;
+    padding-top: 4%;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+.widgetarea1, .widgetarea2 {
+    float: left;
+}
+.widgetarea3 {
+    float: right;
+    
+    margin-right: auto;
+    margin-left: auto;
+}
+#textwidget {
+    width: 359.59px;
+    height: 30px;
+    
+}
+section {
+    display: block;
+}
+.searchformsubmit {
+    display: none;
+}
+.searchforminput {
+    border: 1px solid #dd;
+    color: #444;
+    padding: 10px;
+    width: 100%;
+    box-shadow: none;
+}
+input[type="search"] {
+    box-sizing: border-box;
+}
